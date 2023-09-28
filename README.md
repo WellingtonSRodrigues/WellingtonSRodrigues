@@ -1,4 +1,4 @@
-- 👋 Hi,i'm chamo @WellingtonSRodrigues
+- 👋 Hi,i'm @WellingtonSRodrigues
 - 👀 estou interessa de em aprendes a programar em java
 - 🌱 atualmente estou aprendendo sobre git e github por conta própria
 - 💞️ I’m looking to collaborate on ...
